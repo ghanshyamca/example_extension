@@ -1,0 +1,61 @@
+.csTextBox {
+    height: 40px!important;
+    color: #748590!important;
+}
+.csTextBox:focus {
+    border: 1px solid #25C2A3!important;
+}
+.tableRow {
+    padding: 2px 10px;
+    color: #748590;
+    background: #fff;
+    align-items: center;
+    cursor: pointer;
+}
+.tableRow:hover, .tableRow:focus  {
+    background: #f5f5f5!important;
+}
+.dropdownList {
+    height: 150px;
+    overflow: auto;
+    border: 0px 1px 1px solid #e6eced;
+    margin: 0px 0 2px;
+}
+.tableCell img {
+    border: 1px solid #999;
+    text-align: center;
+    margin-right: 8px;
+}
+.tableCell:hover {
+    color: #748590;
+}
+.tableSelectRow {
+    align-items: center;
+}
+.tableSelectRow:hover, .tableSelectRow:focus  {
+    background: #fff!important;
+}
+.tableSelectCell img {
+    border: 1px solid #999;
+}
+.closeIcon {
+    font-weight: bold;
+    color: #999;
+    cursor: pointer;
+    font-size: 10px;
+    font-style: normal;
+    margin-left: 5px;
+    border-radius: 50%;
+    font-family: sans-serif;
+    border: 1px solid #999;
+    padding: 1px 4px;
+}
+.branding {
+    color: #b4b4b4;
+    font-size: 10px;
+    margin-top: 3px;
+    background: #f5f5f5;
+    border-radius: 2px;
+    padding: 3px;
+    text-align: center;
+}
