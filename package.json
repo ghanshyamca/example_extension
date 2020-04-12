@@ -12,7 +12,7 @@
     "prettier": "prettier --config .prettierrc \"./**/*.+(js|json|jsx)\" --write",
     "test": "jest",
     "test:watch": "jest --watch",
-    "test:coverage": "jest --coverage"
+    "test:coverage": "jest --coverage && cat ./coverage/lcov.info | coveralls"
   },
   "keywords": [],
   "author": "Raw Engineering India Pvt Ltd",
@@ -48,6 +48,7 @@
   "devDependencies": {
     "babel-eslint": "^10.0.3",
     "babel-jest": "^25.3.0",
+    "coveralls": "^3.0.11",
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.2",
     "eslint": "^6.8.0",
