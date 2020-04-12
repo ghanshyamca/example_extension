@@ -1,6 +1,10 @@
 
 [![Build Status](https://travis-ci.org/ghanshyamca/example_extension.svg?branch=master)](https://travis-ci.org/ghanshyamca/example_extension)
 
+[![Coverage Status](https://coveralls.io/repos/github/ghanshyamca/example_extension/badge.svg)](https://coveralls.io/github/ghanshyamca/example_extension)
+
+
+
 ## Setup
 ```bash
 docker build . -t nextjs_n12:16.1.0 --build-arg NODE_VERSION=12.16.1
