@@ -1,9 +1,5 @@
 
-[![Build Status](https://travis-ci.org/ghanshyamca/example_extension.svg?branch=master)](https://travis-ci.org/ghanshyamca/example_extension)
-
-[![Coverage Status](https://coveralls.io/repos/github/ghanshyamca/example_extension/badge.svg)](https://coveralls.io/github/ghanshyamca/example_extension)
-
-
+[![Build Status](https://travis-ci.org/ghanshyamca/example_extension.svg?branch=master)](https://travis-ci.org/ghanshyamca/example_extension) [![Coverage Status](https://coveralls.io/repos/github/ghanshyamca/example_extension/badge.svg?branch=master)](https://coveralls.io/github/ghanshyamca/example_extension?branch=master)
 
 ## Setup
 ```bash
